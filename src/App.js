@@ -1,5 +1,5 @@
 import './App.css';
-import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import Layout from './components/Layout/Layout.jsx';
 import Table from './components/Table/Table.jsx';
 

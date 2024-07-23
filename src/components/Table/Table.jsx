@@ -48,7 +48,7 @@ export default function Table() {
 
 
 
-  // filered search
+  // filered search by name
   const [filtredCustomers, setFiltredCustomers] = useState([]);
   const [searchValue, setSearchValue] = useState('');
 
